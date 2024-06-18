@@ -1,6 +1,5 @@
 # firebench
 
-[![Unittests](https://github.com/google-research/firebench/actions/workflows/pytest_and_autopublish.yml/badge.svg)](https://github.com/google-research/firebench/actions/workflows/pytest_and_autopublish.yml)
 [![PyPI version](https://badge.fury.io/py/firebench.svg)](https://badge.fury.io/py/firebench)
 
 FireBench is the largest high-fidelity wildfire simulation dataset, enabling the generation of ensembles of fire evolution scenarios and combining observational environmental data with high-fidelity simulations. From development of fire propagation models, to investigations of fire and atmospheric dynamics, or even construction of novel machine learning models related to turbulent multiphase fluid flows, the applications of FireBench are exciting! 
